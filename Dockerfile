@@ -1,4 +1,8 @@
-# Use uma imagem oficial do MySQL 
-FROM mysql:5.7 
-ENV MYSQL_ROOT_PASSWORD=root 
-ENV MYSQL_DATABASE=atividade-docker 
+# Use a imagem base do Node.js na vers∆o 14 
+FROM node:14 
+WORKDIR /app 
+COPY package*.json ./ 
+COPY . . 
+RUN npm install 
+EXPOSE 3000
+CMD ["node", "app.js"] 
