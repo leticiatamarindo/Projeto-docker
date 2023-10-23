@@ -5,7 +5,7 @@ Atividade realizada para fins acadêmicos.
 Este é o repositório da atividade desenvolvida para aprender as funcionalidades do Docker.
 ## Tecnologias Utilizadas
 
-- **Front-end**: Atividade desenvolvida com o uso das ferramentas
+- **Ferramentas utilizadas**: 
   - Docker Desktop
   - Node.js
   - MySQL
