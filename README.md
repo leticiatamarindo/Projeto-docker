@@ -11,7 +11,7 @@ Este é o repositório da atividade desenvolvida para aprender as funcionalidade
   - MySQL
 
 ## Acesse a aplicação (Laravel) através do endereço:
-https://leticiatamarindo.github.io/Jogo-da-memoria/
+- Localmente: http://localhost:3000/
 
 ## Autora:
 - Letícia Tamarindo 
